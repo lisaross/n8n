@@ -1,0 +1,5 @@
+services:
+  - type: web
+    env:
+      - key: NODE_VERSION
+        value: 22
