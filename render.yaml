@@ -2,4 +2,4 @@ services:
   - type: web
     env:
       - key: NODE_VERSION
-        value: 22
+        value: 18.17.0
